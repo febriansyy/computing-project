@@ -17,4 +17,5 @@ Install the project dependencies using npm:
 
 ```bash
 npm install
+npm run dev
 ```
