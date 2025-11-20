@@ -9,6 +9,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/febriansyy/computing-project.git
+cd computing-project
 ```
 **Installation**
 
