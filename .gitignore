@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Build caches
+.cache/
+*.cache
+*.pack
+.cache/**
+.cache/*
+
+# Build outputs
+dist/
+build/
+.out/
+
+# Environment
+.env
+.env.*
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
